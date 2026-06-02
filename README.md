@@ -62,10 +62,3 @@ To keep your source code 100% private on GitHub but host the page online for fre
 1. Push your folder to a **Private Repository** on GitHub.
 2. Go to **[vercel.com](https://vercel.com/)** and sign up using your GitHub account.
 3. Import your private repository and click **Deploy**. Vercel will automatically update your live site every time you run `git push`.
-
-### 3. Public Code Hosting (GitHub Pages)
-If you make your repository **Public**:
-1. Go to your repository settings page on GitHub.com.
-2. Click **Pages** in the left sidebar under "Code and automation".
-3. Under "Build and deployment", select the `main` branch and click **Save**.
-4. Your site will be published at `https://andrealmeidagit.github.io/nutri-tracker/`.
